@@ -3,8 +3,8 @@
 Clone da Página inicial da Netflix com consumo de API.
 
 Recursos utilizados:
-- Html
-- css
+- HTML
+- CSS
 - Javascript
 - Consumo de API 
 
