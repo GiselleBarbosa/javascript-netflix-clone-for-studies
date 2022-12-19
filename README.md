@@ -2,6 +2,11 @@
 
 Clone da Página inicial da Netflix com consumo de API.
 
-Linguagens utilizadas:
--html /css
--Javascript
+Recursos utilizados:
+- Html
+- css
+- Javascript
+- Consumo de API 
+
+### Deploy 
+`https://gisellebarbosa.github.io/netflix-clone/`
